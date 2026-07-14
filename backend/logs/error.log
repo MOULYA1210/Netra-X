@@ -1,0 +1,150 @@
+2026-05-21 19:42:05 [error]: ❌ MongoDB connection failed: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-05-22 14:59:54 [error]: ❌ MongoDB connection failed: querySrv ECONNREFUSED _mongodb._tcp.cluster0.zj0hjbl.mongodb.net
+2026-05-22 15:24:42 [error]: [Scanner] Job 5a736227-e97e-4dc3-b1d8-14f43cd11a72 failed: NMAP not found at command location: nmap
+2026-05-22 15:24:42 [error]: [Scanner] Job 5a736227-e97e-4dc3-b1d8-14f43cd11a72 failed: NMAP not found at command location: nmap
+2026-05-22 15:24:42 [error]: [Scanner] Job 5a736227-e97e-4dc3-b1d8-14f43cd11a72 failed: Over scan timeout 0
+2026-05-22 15:26:34 [error]: [Scanner] Job 09cb1446-e0b8-4f60-af36-9e87dc70fec6 failed: Over scan timeout 0
+2026-05-22 15:26:34 [error]: [Scanner] Job 09cb1446-e0b8-4f60-af36-9e87dc70fec6 failed: Over scan timeout 0
+2026-05-22 15:26:34 [error]: [Scanner] Job 09cb1446-e0b8-4f60-af36-9e87dc70fec6 failed: NMAP not found at command location: nmap
+2026-05-22 15:26:45 [error]: [Scanner] Job f0134598-3a84-433a-9147-603c2fe8f115 failed: Over scan timeout 0
+2026-05-22 15:26:45 [error]: [Scanner] Job f0134598-3a84-433a-9147-603c2fe8f115 failed: Over scan timeout 0
+2026-05-22 15:26:45 [error]: [Scanner] Job f0134598-3a84-433a-9147-603c2fe8f115 failed: NMAP not found at command location: nmap
+2026-05-22 15:56:52 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 15:56:53 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 15:56:58 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 15:56:58 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 15:56:59 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 15:56:59 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 15:57:00 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 15:57:00 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 15:57:01 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 15:57:01 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 15:57:17 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 15:57:31 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 15:57:39 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 15:57:39 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 15:57:40 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 15:57:40 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 15:57:40 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 15:57:40 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 15:57:40 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 15:57:41 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 15:57:41 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 15:57:41 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 15:57:42 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 15:57:42 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 15:57:58 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 15:58:13 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 15:58:28 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 15:58:43 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 15:58:58 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 15:59:13 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 15:59:28 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 16:00:00 [error]: 422 - IP address is required, Device name is required - POST /api/devices
+2026-05-22 16:00:22 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 16:00:25 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 16:00:25 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 16:00:40 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 16:00:55 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 16:01:10 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 16:01:25 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 16:01:40 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 16:01:55 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 16:02:10 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 16:02:32 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 16:03:03 [error]: 409 - A device with this ipAddress already exists: 127.0.0.1 - POST /api/devices
+2026-05-22 16:03:18 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 16:03:25 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 16:03:40 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 16:03:55 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 16:04:10 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 16:04:32 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 16:04:36 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 16:04:36 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 16:04:52 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 16:05:03 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 16:05:03 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 16:05:18 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 16:05:33 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 16:05:48 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 16:06:04 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 16:06:19 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-22 16:06:34 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:43:31 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:43:31 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:44:00 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:44:00 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:44:01 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:44:30 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:44:30 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:44:31 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:44:37 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:44:38 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:44:38 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:44:38 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:44:39 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:45:00 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:45:00 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:45:20 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:45:20 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:45:30 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:45:30 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:45:30 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:45:50 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:46:00 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:46:00 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:46:00 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:46:20 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:46:30 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:46:30 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:46:30 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:46:50 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:47:00 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:47:00 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:47:00 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:47:20 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:47:30 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:47:30 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:47:30 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:47:50 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:48:00 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:48:00 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:48:00 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:48:20 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:48:30 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:48:30 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:48:30 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:49:00 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:49:00 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:49:00 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:49:15 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:49:24 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:49:30 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:49:30 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:49:30 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:52:19 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:52:19 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 12:52:24 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 13:55:46 [error]: 400 - Unexpected token '"', ""{\"horizon\": 60}"" is not valid JSON - POST /api/forecast/run
+2026-05-23 13:55:58 [error]: 400 - Unexpected token '"', ""\"{\"hori"... is not valid JSON - POST /api/forecast/run
+2026-05-23 13:56:13 [error]: 400 - Unexpected token '"', ""\"horizon\": 60"" is not valid JSON - POST /api/forecast/run
+2026-05-23 13:56:14 [error]: 400 - Unexpected token '"', ""\"horizon\": 60"" is not valid JSON - POST /api/forecast/run
+2026-05-23 14:00:38 [error]: 500 - unrecognized option to $unwind stage: preserveNullAndEmpty - GET /api/metrics/latest
+2026-05-23 15:30:53 [error]: 409 - A device with this ipAddress already exists: 127.0.0.1 - POST /api/devices
+2026-05-23 15:31:06 [error]: 409 - A device with this ipAddress already exists: 192.168.1.1 - POST /api/devices
+2026-05-23 15:31:16 [error]: 409 - A device with this ipAddress already exists: 8.8.8.8 - POST /api/devices
+2026-05-23 19:50:20 [error]: 500 - Internal Server Error - POST /api/forecast/health-scores
+2026-05-23 19:50:22 [error]: 500 - Internal Server Error - POST /api/forecast/health-scores
+2026-05-23 19:50:23 [error]: 500 - Internal Server Error - POST /api/forecast/run
+2026-05-23 19:50:24 [error]: 500 - Internal Server Error - POST /api/forecast/health-scores
+2026-05-23 19:51:40 [error]: 500 - Internal Server Error - POST /api/forecast/health-scores
+2026-05-23 19:53:11 [error]: 500 - Internal Server Error - POST /api/forecast/health-scores
+2026-05-23 19:53:59 [error]: 500 - Internal Server Error - POST /api/forecast/health-scores
+2026-05-24 10:58:08 [error]: 400 - Invalid ID format: ALERT_ID - POST /api/alerts/ALERT_ID/resend-email
+2026-05-24 11:22:31 [error]: 500 - Cannot read properties of undefined (reading 'to') - POST /api/alerts/6a128a60c48d9e22fc041a4b/resend-email
+2026-05-25 23:03:14 [error]: 500 - Internal Server Error - GET /api/forecast/device/6a11b762260974c4c94cf4f8?horizon=60
+2026-05-25 23:03:17 [error]: 500 - Internal Server Error - GET /api/forecast/device/6a11b73b260974c4c94cf4ea?horizon=60
+2026-05-25 23:16:02 [error]: [Email] Send failed: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2beb56b5886sm91352065ad.20 - gsmtp
+2026-06-12 15:25:22 [error]: [Email] Send failed: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-37a233f58ccsm1570125a91.3 - gsmtp
